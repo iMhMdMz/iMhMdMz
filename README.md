@@ -49,10 +49,3 @@ Here's what keeps me going:
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
-
----
-
-### 🐍 Contribution Snake  
-<div align="center">
-  <img src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdc3efd499eaaaf163f7a617e/images/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
-</div>
