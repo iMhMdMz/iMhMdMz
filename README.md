@@ -6,9 +6,17 @@
 ---
 
 ### 🚀 About Me  
-- 💻 Passionate about **backend development** and **security**.  
-- 🛠 Always learning new technologies and improving my skills.  
-- 🌐 Building efficient, scalable, and secure applications.  
+Hey there! 👋 I'm **Mohammad Farahani**, a passionate backend developer and security enthusiast with a knack for creating scalable, efficient, and secure applications. 💻  
+
+When I'm not coding, you'll probably find me:  
+- Debugging my life decisions 😅  
+- Exploring new tech trends 🚀  
+- Sipping coffee while pondering over the next big project ☕  
+
+Here's what keeps me going:  
+- **Mission:** Turning ideas into functional, impactful solutions.  
+- **Vision:** Building a digital world that's as secure as a bank vault 🛡️.  
+- **Mantra:** "Code it till you make it!"  
 
 ---
 
@@ -40,4 +48,11 @@
   <a href="mailto:imhmdmzdev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+</div>
+
+---
+
+### 🐍 Contribution Snake  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdc3efd499eaaaf163f7a617e/images/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
 </div>
