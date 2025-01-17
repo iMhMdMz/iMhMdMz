@@ -6,17 +6,9 @@
 ---
 
 ### 🚀 About Me  
-Hey there! 👋 I'm **Mohammad Farahani**, a passionate backend developer and security enthusiast with a knack for creating scalable, efficient, and secure applications. 💻  
-
-When I'm not coding, you'll probably find me:  
-- Debugging my life decisions 😅  
-- Exploring new tech trends 🚀  
-- Sipping coffee while pondering over the next big project ☕  
-
-Here's what keeps me going:  
-- **Mission:** Turning ideas into functional, impactful solutions.  
-- **Vision:** Building a digital world that's as secure as a bank vault 🛡️.  
-- **Mantra:** "Code it till you make it!"  
+- 💻 Passionate about **backend development** and **security**.  
+- 🛠 Always learning new technologies and improving my skills.  
+- 🌐 Building efficient, scalable, and secure applications.  
 
 ---
 
