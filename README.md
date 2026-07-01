@@ -34,7 +34,7 @@
 
 ### 📫 Let's Connect!  
 <div align="center">
-  <a href="https://t.me/imhmdmzdev">
+  <a href="https://t.me/ievox">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="mailto:imhmdmzdev@gmail.com">
